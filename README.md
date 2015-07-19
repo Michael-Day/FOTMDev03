@@ -1,4 +1,5 @@
 # FOTMDev03
-# info@michaelday.org.uk
+ info@michaelday.org.uk
 
-# A video grabber thing
+## A video grabber thing
+## rev 3
